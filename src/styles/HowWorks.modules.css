@@ -1,0 +1,106 @@
+.sam {
+  font-size: 32px;
+  width: 700px;
+  margin-top: -5px;
+  margin-left: 325px;
+  color: #039695;
+}
+.cr {
+  margin-left: 125px;
+  margin-top: 60px;
+}
+.fon {
+  width: 95%;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px !important;
+  line-height: 30px;
+  color: #444;
+  margin: 0 5%;
+  text-align: center;
+}
+.cf {
+  /* border: 1px solid red; */
+  border-radius: 10px;
+  height: 550px;
+  width: 400px;
+  margin-left: 800px;
+  margin-top: -360px;
+  box-shadow: 0 0 5px 2px rgb(210, 209, 209);
+}
+
+.input-container {
+  display: flex;
+  width: 95%;
+  margin-left: 10px;
+  margin-bottom: 15px;
+}
+.line1 {
+  width: 100px;
+  color: black;
+  background-color: black;
+}
+.input-field {
+  width: 95%;
+  margin-left: 10px;
+  padding: 10px;
+  outline: none;
+}
+.btn {
+  background-color: dodgerblue;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+.btn:hover {
+  opacity: 1;
+}
+.Call {
+  height: 50px;
+  border: 1px solid green;
+  width: 150px;
+}
+
+.twitter {
+  background-color: #23c526;
+  color: white;
+}
+.usericon {
+  height: 40px;
+}
+.line1 {
+  width: 100px;
+  background-color: black;
+}
+.btn1 {
+  border: 1px solid#01bfbd;
+  background-color: white;
+  color: #01bfbd;
+  padding: 12px;
+  font-weight: bold;
+  font-size: 15px;
+  width: 270px;
+}
+.para2 {
+  color: #01bfbd;
+  font-weight: bold;
+  font-size: 14px;
+  margin-top: 40px;
+}
+.twitter-btn {
+  background-color: #25d366;
+  color: white;
+  width: 270px;
+  padding: 12px;
+  display: inline-block;
+  font-size: 15px;
+  line-height: 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  margin: 5px 0;
+  margin-top: 20px;
+  font-weight: bold;
+}
