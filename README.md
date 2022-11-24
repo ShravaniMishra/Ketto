@@ -66,10 +66,8 @@ After Login user direcly redirect to home page.
 There are many Child pages linked to the Landing page and after login page, but for this clone following pages are made.
 ### Fundraiser form page :
 
-<p float="left">  
-  <img src="<a href="https://ibb.co/6PRLcSJ"> alt="Screenshot-253" border="0"></a><br />  width="400"/> 
-  <img src="./src/PreviewImageGallery/donationForm.jpeg" width="400">
-</p>
+<a href="https://ibb.co/6PRLcSJ"><img src="https://i.ibb.co/MVDQyH5/Screenshot-253.png" alt="Screenshot-253" border="0"></a><br /><a target='_blank' href='https://dedupelist.com/'>delete duplicates online</a><br />
+
 There are some Key Features which are added in website clone such as:
 
 ### Special features:
