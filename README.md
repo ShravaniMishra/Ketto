@@ -50,7 +50,7 @@ Sliders are included in the page, popups are shown when hovered.
 At the bottom section there is a footer, both Header & Footer are same across all the pages.
 The page is responsive for all screen sizes.
 <br/>
-<img src="https://drive.google.com/file/d/1rsTdcsZMqMATmsqfel20plxxDnAheQQ0/preview?usp=share_link" width="500"/>
+<img src="https://ibb.co/Jpq3xNs" width="500"/>
 The library used for icon is:"https://iconify.design/"
 <br/>
 ### Login Page:
