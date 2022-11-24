@@ -78,6 +78,8 @@ There are some Key Features which are added in website clone such as:
  <a href="https://ibb.co/sbhCCt1"><img src="https://i.ibb.co/n6TBBR1/Screenshot-250.png" alt="Screenshot-250" border="0"></a><br /><a target='_blank' href='https://dedupelist.com/'>remove repeated lines</a><br /> 
   
 <a href="https://ibb.co/x6RjFXX"><img src="https://i.ibb.co/jD1MJbb/Screenshot-252.png" alt="Screenshot-252" border="0"></a>  
+  
+<a href="https://ibb.co/DYXWd5r"><img src="https://i.ibb.co/gd19Yz4/Screenshot-263.png" alt="Screenshot-263" border="0"></a>    
 </p>
 
 
