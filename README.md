@@ -73,7 +73,7 @@ There are some Key Features which are added in website clone such as:
 ### Special features:
 
 <p>
-<a href="https://ibb.co/kSmdcV3"><img src="https://i.ibb.co/HHhJgLN/Screenshot-264.png" alt="Screenshot-264" border="0"></a><br />
+  <a href="https://ibb.co/HDhnDPB"><img src="https://i.ibb.co/1fz8fX7/Screenshot-265.png" alt="Screenshot-265" border="0"></a>
   
 <a href="https://ibb.co/sbhCCt1"><img src="https://i.ibb.co/n6TBBR1/Screenshot-250.png" alt="Screenshot-250" border="0"></a><br />
   
