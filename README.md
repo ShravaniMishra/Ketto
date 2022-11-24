@@ -74,7 +74,8 @@ There are some Key Features which are added in website clone such as:
 
 <p>
 <a href="https://ibb.co/xCB4VdR"><img src="https://i.ibb.co/dWVhnxz/Screenshot-249.png" alt="Screenshot-249" border="0"></a><br /><a target='_blank' href='https://dedupelist.com/'>how to remove duplicates in word</a><br />
-  
+ 
+ <a href="https://ibb.co/sbhCCt1"><img src="https://i.ibb.co/n6TBBR1/Screenshot-250.png" alt="Screenshot-250" border="0"></a><br /><a target='_blank' href='https://dedupelist.com/'>remove repeated lines</a><br /> 
 </p>
 
 
