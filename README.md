@@ -68,6 +68,7 @@ There are many Child pages linked to the Landing page and after login page, but 
 ### Fundraiser form page :
 
 <a href="https://ibb.co/6PRLcSJ"><img src="https://i.ibb.co/MVDQyH5/Screenshot-253.png" alt="Screenshot-253" border="0"></a>
+
 There are some Key Features which are added in website clone such as:
 
 ### Special features:
