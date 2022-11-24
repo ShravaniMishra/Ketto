@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+<img src="./src/PreviewImageGallery/ketto.png" width="400"/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Solo Project - a task to Clone the ketto.org Website.
 
-## Available Scripts
 
-In the project directory, you can run:
+## See My Live Website
 
-### `npm start`
+https://shravani-ketto.netlify.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installing and Running
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Executing the commands mentioned below one by one in your command line will help in making this React app .
+**Cloning**
+```
+git clone https://github.com/Ramlala-Yadav-Git/Ketto-Clone
+npm install
+```
+**To run the react app execute below command**
+```
+npm start
+```
+**For Mock data Used In This Project Please Run these Commands :- **
+```
+json-server data.json --port 3001
+json-server url.json --port 3003
+json-server db.json --port 3004
+```
+## NPM Packages used
+- ### react [![react](https://camo.githubusercontent.com/475b49b04214dfa67c1ec8a2837888ae63003feb7b71fd45be30ff360148ad87/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742e7376673f7374796c653d666c6174)](https://github.com/facebook/react)
+- ### react-router-dom [![react-router-dom](https://camo.githubusercontent.com/475b49b04214dfa67c1ec8a2837888ae63003feb7b71fd45be30ff360148ad87/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742e7376673f7374796c653d666c6174)](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
+- ### axios [![axios](https://camo.githubusercontent.com/1f22b6c297d1cb0e3aa68b2e6fed42da8b002bbefca8d63e99e0b790da8cce9b/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f6178696f732e7376673f7374796c653d666c61742d737175617265)](https://github.com/axios/axios)
+- ### create-react-app [![create-react-app](https://camo.githubusercontent.com/475b49b04214dfa67c1ec8a2837888ae63003feb7b71fd45be30ff360148ad87/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742e7376673f7374796c653d666c6174)](https://github.com/facebook/create-react-app)
+- ### styled-components [![styled-components](https://camo.githubusercontent.com/5ba6643341d94abdad0bc89edf930b9223664ffd462c61e4f32ec06cdbf50eb9/68747470733a2f2f636f6465636f762e696f2f67682f7374796c65642d636f6d706f6e656e74732f7374796c65642d636f6d706f6e656e74732f636f7665726167652e7376673f6272616e63683d6d61696e)](https://github.com/styled-components/styled-components)
+- ### iconify/react
+- ### react-elastic-corousel [![react-elastic-corousel](https://camo.githubusercontent.com/f02d7ddafecce45e5c6e5d24ac76753cc2560e27eb41e347b4aed935392a32eb/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742d656c61737469632d6361726f7573656c2e7376673f7374796c653d666c61742d737175617265)](https://github.com/sag1v/react-elastic-carousel)
+## Technologies Used
+<p float="left">
+  <img src="./src/PreviewImageGallery/html.png" height="150"/>
+  <img src="./src/PreviewImageGallery/css.png"  height="150"/> 
+  <img src="./src/PreviewImageGallery/JavaScript.png"  height="150"/>
+  <img src="./src/PreviewImageGallery/React.png" height="150"/>
+</p>
+## Features
+- Fullscreen mode
+- Fully responsive( supported in all devices)
+### Landing Page :
+The Landing Page of Ketto website displays various funds, success stories and chatbot application.
+In top section there is a Header which displays varius section links of website.
+Sliders are included in the page, popups are shown when hovered.
+At the bottom section there is a footer, both Header & Footer are same across all the pages.
+The page is responsive for all screen sizes.
+<br/>
+<img src="./src/PreviewImageGallery/index.jpeg" width="500"/>
+The library used for icon is:"https://iconify.design/"
+<br/>
+### Login Page:
+Existing user can Login and new user's can SignUp themselves on page.
+From NavigationBar of Landing Page.
+<img src="./src/PreviewImageGallery/login.jpeg" width="500"/>
+After Login user direcly redirect to home page.
+There are many Child pages linked to the Landing page and after login page, but for this clone following pages are made.
+### Fundraiser form page :
+Below images shows steps to donate.
+<p float="left">  
+  <img src="./src/PreviewImageGallery/steps.jpeg"  width="400"/> 
+  <img src="./src/PreviewImageGallery/donationForm.jpeg" width="400">
+</p>
+There are some Key Features which are added in website clone such as:
+### Special features:
+- _Chatbot_
+- _Supporters and Comments_
+- _Easy navigation by category section_
+<p>
+<img src="./src/PreviewImageGallery/chatbot.jpeg" width="400"/>
+<img src="./src/PreviewImageGallery/category.jpeg" width="400"/>
+<img src="./src/PreviewImageGallery/supporters.jpeg" width="400">
+<img src="./src/PreviewImageGallery/comments.jpeg" width="400"/>
+</p>
+There are some redirected pages and sub features given below:
+### Other features and pages :
+<p float="left">
+  <img src="./src/PreviewImageGallery/patient.jpeg" width="600">
+  <img src="./src/PreviewImageGallery/successStory.jpeg" width="400"/>
+  <img src="./src/PreviewImageGallery/tools.jpeg"  width="400"/> 
+  <img src="./src/PreviewImageGallery/disease.jpeg"  width="400"/>
+  <img src="./src/PreviewImageGallery/footer.jpeg" width="400"/>
+</p>
+### Click the below image to see a video demo of the website on youtube.com
+[![ketto-video-image.png](https://i.postimg.cc/Njcb8Hjs/ketto-video-image.png)](https://www.youtube.com/watch?v=2Z3eWws3ucI)
+## Team Members and Contributors
+- [@Ramlala Yadav](https://github.com/Ramlala-Yadav-Git)
+- [@Sudhir Kumar samantaray](https://github.com/devSudhir)
+- [@Milind Anand](https://github.com/Milind74)
+- [@Kumar Ankush](https://github.com/imankush7)
