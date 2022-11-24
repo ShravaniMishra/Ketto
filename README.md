@@ -51,13 +51,15 @@ At the bottom section there is a footer, both Header & Footer are same across al
 The page is responsive for all screen sizes.
 <br/>
 
-<img src="https://i.ibb.co/4S21scV/Screenshot-233.png" width="500"/>
+<br><img src="https://i.ibb.co/4S21scV/Screenshot-233.png" width="500"/><br/>
 The library used for icon is:"https://iconify.design/"
 <br/>
 ### Login Page:
 Existing user can Login and new user's can SignUp themselves on page.
 From NavigationBar of Landing Page.
+<br>
 <img src="https://i.ibb.co/tX34C3H/Screenshot-248.png" width="500"/>
+<br/>
 After Login user direcly redirect to home page.
 There are many Child pages linked to the Landing page and after login page, but for this clone following pages are made.
 ### Fundraiser form page :
