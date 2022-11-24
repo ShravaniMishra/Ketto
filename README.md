@@ -35,7 +35,7 @@ json-server db.json --port 3004
 
 ## Technologies Used
 <p float="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAIP_Cf5nPr-oj9tc2fHg1DEugRc_UjIxtw&usqp=CAU" alt="html5" height="150" width="25%"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAIP_Cf5nPr-oj9tc2fHg1DEugRc_UjIxtw&usqp=CAU" alt="html5" height="150" width="20%"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LAimh7HEcDu0N8uhkCXiAE-BEaLTHlHG4A&usqp=CAU" alt="css3" height="150"/> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB0_ijMX_4xf0rGse2D334wtm-LcqQ_lrsFQ&usqp=CAU"  height="150"/>
   <img src="https://www.patterns.dev/img/reactjs/react-logo@3x.svg" alt="react" height="150"/>
