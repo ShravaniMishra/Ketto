@@ -1,4 +1,4 @@
-<img src="https://ketto.gumlet.io/assets/images/logo-light-bg.svg?w=70&dpr=1.0" width="400"/>
+<img src="https://ketto.gumlet.io/assets/images/logo-light-bg.svg?w=70&dpr=1.0" width="400" margin-left="250px"/>
 
 ## Solo Project - a task to Clone the ketto.org Website.
 
