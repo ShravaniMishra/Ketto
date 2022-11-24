@@ -65,29 +65,21 @@ From NavigationBar of Landing Page.
 After Login user direcly redirect to home page.
 There are many Child pages linked to the Landing page and after login page, but for this clone following pages are made.
 ### Fundraiser form page :
-Below images shows steps to donate.
+
 <p float="left">  
-  <img src="./src/PreviewImageGallery/steps.jpeg"  width="400"/> 
+  <img src="<a href="https://ibb.co/6PRLcSJ"><img src="https://i.ibb.co/MVDQyH5/Screenshot-253.png" alt="Screenshot-253" border="0"></a><br />  width="400"/> 
   <img src="./src/PreviewImageGallery/donationForm.jpeg" width="400">
 </p>
 There are some Key Features which are added in website clone such as:
+
 ### Special features:
-- _Chatbot_
-- _Supporters and Comments_
-- _Easy navigation by category section_
+
 <p>
 <img src="./src/PreviewImageGallery/chatbot.jpeg" width="400"/>
 <img src="./src/PreviewImageGallery/category.jpeg" width="400"/>
 <img src="./src/PreviewImageGallery/supporters.jpeg" width="400">
 <img src="./src/PreviewImageGallery/comments.jpeg" width="400"/>
 </p>
-There are some redirected pages and sub features given below:
-### Other features and pages :
-<p float="left">
-  <img src="./src/PreviewImageGallery/patient.jpeg" width="600">
-  <img src="./src/PreviewImageGallery/successStory.jpeg" width="400"/>
-  <img src="./src/PreviewImageGallery/tools.jpeg"  width="400"/> 
-  <img src="./src/PreviewImageGallery/disease.jpeg"  width="400"/>
-  <img src="./src/PreviewImageGallery/footer.jpeg" width="400"/>
-</p>
+
+
 
