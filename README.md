@@ -12,7 +12,7 @@ https://shravani-ketto.netlify.app/
 Executing the commands mentioned below one by one in your command line will help in making this React app .
 **Cloning**
 ```
-git clone https://github.com/Ramlala-Yadav-Git/Ketto-Clone
+https://github.com/ShravaniMishra/Ketto.git
 npm install
 ```
 **To run the react app execute below command**
