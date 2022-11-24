@@ -58,7 +58,9 @@ The library used for icon is:"https://iconify.design/"
 Existing user can Login and new user's can SignUp themselves on page.
 From NavigationBar of Landing Page.
 <br>
+<br>
 <img src="https://i.ibb.co/tX34C3H/Screenshot-248.png" width="500"/>
+<br/>
 <br/>
 After Login user direcly redirect to home page.
 There are many Child pages linked to the Landing page and after login page, but for this clone following pages are made.
