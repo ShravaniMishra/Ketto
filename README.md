@@ -30,7 +30,7 @@ json-server db.json --port 3004
 - ### react-router-dom [![react-router-dom](https://camo.githubusercontent.com/475b49b04214dfa67c1ec8a2837888ae63003feb7b71fd45be30ff360148ad87/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742e7376673f7374796c653d666c6174)](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
 - ### axios [![axios](https://camo.githubusercontent.com/1f22b6c297d1cb0e3aa68b2e6fed42da8b002bbefca8d63e99e0b790da8cce9b/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f6178696f732e7376673f7374796c653d666c61742d737175617265)](https://github.com/axios/axios)
 - ### create-react-app [![create-react-app](https://camo.githubusercontent.com/475b49b04214dfa67c1ec8a2837888ae63003feb7b71fd45be30ff360148ad87/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742e7376673f7374796c653d666c6174)](https://github.com/facebook/create-react-app)
-- ###   Chakra UI [![styled-components](https://camo.githubusercontent.com/5ba6643341d94abdad0bc89edf930b9223664ffd462c61e4f32ec06cdbf50eb9/68747470733a2f2f636f6465636f762e696f2f67682f7374796c65642d636f6d706f6e656e74732f7374796c65642d636f6d706f6e656e74732f636f7665726167652e7376673f6272616e63683d6d61696e)](https://github.com/styled-components/styled-components)
+- ###   Chakra UI [![styled-components]
 - ### iconify/react
 
 ## Technologies Used
@@ -85,5 +85,4 @@ There are some redirected pages and sub features given below:
   <img src="./src/PreviewImageGallery/disease.jpeg"  width="400"/>
   <img src="./src/PreviewImageGallery/footer.jpeg" width="400"/>
 </p>
-### Click the below image to see a video demo of the website on youtube.com
-[![ketto-video-image.png](https://i.postimg.cc/Njcb8Hjs/ketto-video-image.png)](https://www.youtube.com/watch?v=2Z3eWws3ucI)
+
