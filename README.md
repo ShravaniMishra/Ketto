@@ -73,10 +73,8 @@ There are some Key Features which are added in website clone such as:
 ### Special features:
 
 <p>
-<img src="./src/PreviewImageGallery/chatbot.jpeg" width="400"/>
-<img src="./src/PreviewImageGallery/category.jpeg" width="400"/>
-<img src="./src/PreviewImageGallery/supporters.jpeg" width="400">
-<img src="./src/PreviewImageGallery/comments.jpeg" width="400"/>
+<a href="https://ibb.co/xCB4VdR"><img src="https://i.ibb.co/dWVhnxz/Screenshot-249.png" alt="Screenshot-249" border="0"></a><br /><a target='_blank' href='https://dedupelist.com/'>how to remove duplicates in word</a><br />
+  
 </p>
 
 
